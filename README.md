@@ -15,7 +15,9 @@ This repository contains a Python-based web application that extracts transcript
 
 ## **🎥 Video Demo**
 
-[![Watch the video](https://img.youtube.com/vi/YourVideoID/maxresdefault.jpg)](https://youtu.be/YourVideoID)
+[![Watch the video](https://img.youtube.com/vi/aY2jtJR813U/maxresdefault.jpg)](https://youtu.be/aY2jtJR813U)
+
+Click on the image above to watch the demo.
 
 ---
 
